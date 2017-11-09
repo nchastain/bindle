@@ -1,7 +1,0 @@
-import NewCollectionInfo from '.././elements/NewCollectionInfo'
-import AddItemButton from '.././elements/AddItemButton'
-import NewItem from '.././elements/NewItem'
-import SaveItem from '.././elements/SaveItem'
-import ItemSnippet from '.././elements/ItemSnippet'
-import ItemList from '.././elements/ItemList'
-import SaveCollectionButton from '.././elements/SaveCollectionButton'
